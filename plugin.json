@@ -1,0 +1,22 @@
+{
+    "metadata": {
+      "name": "Xiutaku",
+      "author": "hieu05",
+      "version": 1,
+      "source": "https://xiuren.biz/",
+      "regexp": "https://xiuren.biz/[^/]+$",
+      "description": "Tập Hợp Album của Xiuren...",
+      "locale": "vi_VN",
+      "tag": "nsfw",
+      "type": "comic"
+    },
+    "script": {
+      "home": "<Tên script trang home (không bắt buộc)>",
+      "genre": "<Tên script danh sách thể loại, nếu không có thì không thêm>",
+      "detail": "detail.js",
+      "search": "<Tên script tìm kiếm truyện (không bắt buộc)>",
+      "page": "<Tên script danh sách trang của mục luc (không bắt buộc)>",
+      "toc": "toc,js",
+      "chap": "chap.js"
+    }
+  }
